@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe de Moraes</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
-- 🌱 I’m currently learning **React, Typescript and Node.js**
+- 🌱 I’m currently learning **React and Typescript**
 
 - 💬 Ask me about **Vue, PHP and Css**
 
