@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felipe de Moraes</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
-- 🌱 I’m currently learning **React and Typescript**
+- 🌱 I’m currently learning **Nest and Typescript**
 
-- 💬 Ask me about **Vue, PHP and Css**
+- 💬 Ask me about **React, Vue, PHP and Css**
 
 - 📫 How to reach me **moraesfd@gmail.com**
 
